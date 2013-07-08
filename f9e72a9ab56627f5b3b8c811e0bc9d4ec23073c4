@@ -1,0 +1,8 @@
+Change-Id: If9e72a9ab56627f5b3b8c811e0bc9d4ec23073c4
+Code-Review+2: Ryan Ware <ware@linux.intel.com>
+Verified+1: Ryan Ware <ware@linux.intel.com>
+Submitted-by: Ryan Ware <ware@linux.intel.com>
+Submitted-at: Mon, 08 Jul 2013 10:05:29 -0700
+Reviewed-on: https://review.tizen.org/gerrit/4689
+Project: platform/upstream/cscope
+Branch: refs/heads/tizen
